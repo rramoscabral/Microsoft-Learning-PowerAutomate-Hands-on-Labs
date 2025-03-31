@@ -4,7 +4,7 @@ lab:
     module: 'Power Automate’s deep integration across multiple data sources'
 ---
 
-# Practice Lab 7 – Trigger filters
+# Practice Lab 8 – Trigger filters
 
 In this lab you will filter on an update trigger.
 

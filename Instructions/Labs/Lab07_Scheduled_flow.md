@@ -4,7 +4,7 @@ lab:
     module: 'Power Automate’s deep integration across multiple data sources'
 ---
 
-# Practice Lab 6 – Scheduled flow
+# Practice Lab 7 – Scheduled flow
 
 In this lab you will create a scheduled flow.
 

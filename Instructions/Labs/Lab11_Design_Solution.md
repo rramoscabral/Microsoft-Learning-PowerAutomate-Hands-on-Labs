@@ -4,7 +4,7 @@ lab:
     module: 'Designing the Solution'
 ---
 
-# Designing the Solution
+# Practice Lab 11 – Designing the Solution
 
 **⏱️ The estimated time to complete this lab is 2 hours.**
 

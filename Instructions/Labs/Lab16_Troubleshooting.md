@@ -4,7 +4,7 @@ lab:
     module: 'Troubleshootingn'
 ---
 
-**Troubleshooting**
+# Practice Lab 16  –Troubleshooting
 
 **Scenario**
 

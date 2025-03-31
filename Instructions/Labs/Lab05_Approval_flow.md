@@ -4,7 +4,7 @@ lab:
     module: 'Build approval flows with Power Automate'
 ---
 
-# Practice Lab 4 – Approval flow
+# Practice Lab 5 – Approval flow
 
 In this lab you will create an approval flow.
 

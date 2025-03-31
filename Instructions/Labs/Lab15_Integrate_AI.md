@@ -4,7 +4,7 @@ lab:
     module: 'Integrate AI'
 ---
 
-**Integrate AI**
+# Practice Lab 15 – Integrate AI
 
 **Scenario**
 

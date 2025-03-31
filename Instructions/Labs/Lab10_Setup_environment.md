@@ -4,7 +4,7 @@ lab:
     module: 'Power Automate Desktop introduction'
 ---
 
-**Setup the lab environment**
+# Practice Lab 10 – Setup the lab environmen for Power Automate Dektop
 
 **⏱️ The estimated time to complete this lab is 30 minutes.**
 

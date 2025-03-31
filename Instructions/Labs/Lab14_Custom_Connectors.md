@@ -4,7 +4,7 @@ lab:
     module: 'Custom Connectors'
 ---
 
-**Custom Connectors**
+# Practice Lab 14 – Custom Connectors
 
 **Scenario**
 

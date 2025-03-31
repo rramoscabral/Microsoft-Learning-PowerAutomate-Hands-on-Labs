@@ -4,7 +4,7 @@ lab:
     module: 'Using Desktop Flows from Cloud Flows'
 ---
 
-**Using Desktop Flows from Cloud Flows**
+# Practice Lab 13 – Using Desktop Flows from Cloud Flows
 
 **Scenario**
 

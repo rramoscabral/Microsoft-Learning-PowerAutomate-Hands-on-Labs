@@ -4,7 +4,7 @@ lab:
     module: 'Build approval flows with Power Automate'
 ---
 
-# Practice Lab 3 – SharePoint
+# Practice Lab 4 – SharePoint
 
 In this lab you will create a SharePoint site and list.
 

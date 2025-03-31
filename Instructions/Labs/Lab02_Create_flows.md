@@ -4,7 +4,7 @@ lab:
     module: 'Get started with Power Automate'
 ---
 
-# Practice Lab 1 – Create cloud flows
+# Practice Lab 2 – Create cloud flows
 
 In this lab you will create cloud flows.
 

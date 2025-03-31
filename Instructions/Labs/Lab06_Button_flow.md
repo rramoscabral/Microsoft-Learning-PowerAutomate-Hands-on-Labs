@@ -4,7 +4,7 @@ lab:
     module: 'Build flows to manage user information'
 ---
 
-# Practice Lab 5 – Button flow
+# Practice Lab 6 – Button flow
 
 In this lab you will create a button flow.
 

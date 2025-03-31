@@ -4,7 +4,7 @@ lab:
     module: 'Get started with Microsoft Dataverse'
 ---
 
-# Practice Lab 2 – Data model
+# Practice Lab 3 – Data model
 
 In this lab you will create Dataverse tables and columns.
 

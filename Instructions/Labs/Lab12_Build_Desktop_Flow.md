@@ -4,7 +4,7 @@ lab:
     module: 'Building Desktop Flows'
 ---
 
-**Building Desktop Flows**
+# Practice Lab 10 – Building Desktop Flows
 
 **Scenario**
 
